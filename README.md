@@ -1,5 +1,5 @@
 # CENG-Course-Projects
-An aggregation of my master's degree course projects. CENG 501, 502, and 796 projects are the re-implementation of recent papers published at top venues.
+An aggregation of my master's degree course projects of Middle East Technical University (METU). CENG 501, 502, and 796 projects are the re-implementation of recent papers published at top venues.
 
 Course Code | Course Name | Project Name
 --- | --- | ---
