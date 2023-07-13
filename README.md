@@ -1,7 +1,7 @@
 # CENG-Course-Projects
 An aggregation of my master's degree course projects. CENG 501, 502, and 796 projects are the re-implementation of a recent paper published in top venues.
 
-Course Code | Course Name | Project 
+Course Code | Course Name | Project Name
 --- | --- | ---
 CENG 501 | Deep Learning | [Shadow Removal with Paired and Unpaired Learning](https://github.com/bartuakyurek/Shadow-Removal-with-Paired-and-Unpaired-Learning)
 CENG 502 | Advanced Deep Learning | [Adaptive Agent Transformer for Few-shot Segmentation](https://github.com/bartuakyurek/AAFormer)
