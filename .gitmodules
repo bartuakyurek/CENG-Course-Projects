@@ -4,3 +4,9 @@
 [submodule "CENG502"]
 	path = CENG502
 	url = https://github.com/bartuakyurek/AAFormer.git
+[submodule "CENG501"]
+	path = CENG501
+	url = https://github.com/bartuakyurek/Shadow-Removal-with-Paired-and-Unpaired-Learning.git
+[submodule "CENG596"]
+	path = CENG596
+	url = https://github.com/b21827723/engine596.git
