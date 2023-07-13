@@ -1,3 +1,6 @@
 [submodule "Styleformer"]
 	path = Styleformer
 	url = https://github.com/bartuakyurek/Styleformer.git
+[submodule "CENG796"]
+	path = CENG796
+	url = https://github.com/bartuakyurek/Styleformer.git
