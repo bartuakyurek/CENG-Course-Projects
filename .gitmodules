@@ -1,0 +1,3 @@
+[submodule "Styleformer"]
+	path = Styleformer
+	url = https://github.com/bartuakyurek/Styleformer.git
