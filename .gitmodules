@@ -1,3 +1,6 @@
 [submodule "CENG796"]
 	path = CENG796
 	url = https://github.com/bartuakyurek/Styleformer.git
+[submodule "CENG502"]
+	path = CENG502
+	url = https://github.com/bartuakyurek/AAFormer.git
